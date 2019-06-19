@@ -1,0 +1,24 @@
+{
+  "name": "cv-express",
+  "version": "1.0.0",
+  "description": "Curriculo em Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albino29/cv-express.git"
+  },
+  "author": "Bruna Albino <bruhalbino29@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albino29/cv-express/issues"
+  },
+  "homepage": "https://github.com/albino29/cv-express#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.2"
+  }
+}
